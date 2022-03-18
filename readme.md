@@ -1,3 +1,9 @@
+# SFML — Built
+
+This repos contains a built version of SFML.
+
+-------------
+
 [![SFML logo](https://www.sfml-dev.org/images/logo.png)](https://www.sfml-dev.org)
 
 # SFML — Simple and Fast Multimedia Library
